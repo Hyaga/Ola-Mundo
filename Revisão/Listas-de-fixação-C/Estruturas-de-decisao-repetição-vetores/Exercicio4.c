@@ -1,4 +1,4 @@
-/*1. Faça um programa que possua um vetor denominado A que armazene 6 números inteiros. O
+/* Faça um programa que possua um vetor denominado A que armazene 6 números inteiros. O
 programa deve executar os seguintes passos:
 (a) Atribua diretamente no vetor os seguintes valores: 1, 0, 5, -2, -5, 7.
 (b) Armazene em uma variável inteira (simples) a soma entre os valores das posições: A[0], A[1]
